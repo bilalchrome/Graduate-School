@@ -6,4 +6,4 @@ Not really sure how reliable and accurate they are, but feel free to read throug
 
 ## Writing in LaTeX
 
-I write all my reports in LaTeX, as it is how big boys write. LaTeX is much more extensibe as I can focus on text only, and let LaTeX take care of the formatting and bibliographies.
+I write all my reports in LaTeX, as it is how big boys write. LaTeX is much more extensibe. Text files can be easily manipulated with Gnu core utils like grep, sed and awk. I can focus on the content itself, and let LaTeX take care of the formatting and bibliographies.
